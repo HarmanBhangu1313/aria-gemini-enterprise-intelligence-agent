@@ -4,7 +4,7 @@
 
 ARIA is a multi-agent enterprise intelligence system powered by Gemini 2.0 Flash, LangGraph orchestration, Hybrid RAG, and Arize Phoenix MCP. The platform not only answers business questions but also evaluates, traces, and self-corrects its own reasoning with enterprise-grade observability.
 
-Demo video link- https://aria-gemini-enterprise-intelligence-agent-eeacxcsnkakaratvupll.streamlit.app/
+Live Demo Link- https://aria-gemini-enterprise-intelligence-agent-eeacxcsnkakaratvupll.streamlit.app/
 
 ---
 
