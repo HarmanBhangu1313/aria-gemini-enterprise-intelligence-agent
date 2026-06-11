@@ -1,0 +1,16 @@
+streamlit
+google-generativeai
+langgraph
+langchain
+langchain-community
+faiss-cpu
+rank-bm25
+sentence-transformers
+pandas
+numpy
+plotly
+sqlalchemy
+python-dotenv
+arize-phoenix
+opentelemetry-sdk
+scikit-learn
